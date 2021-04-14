@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:inputType="phone"
         android:enabled="true"
+        android:saveEnabled="false"
         android:gravity="center"/>
 
     <LinearLayout
@@ -43,6 +44,7 @@
         android:layout_height="wrap_content"
         android:inputType="phone"
         android:enabled="true"
+        android:saveEnabled="false"
         android:gravity="center"/>
 
     <TextView
